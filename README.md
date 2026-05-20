@@ -1,6 +1,6 @@
 # Orbital Period Calculator 🛰️
 
-A Python CLI tool that calculates the orbital period of any object around Earth using Kepler's Third Law.
+A Python CLI tool that calculates the orbital period of any object around the Sun using Kepler's Third Law.
 
 ## The Math
 Kepler's Third Law states that the square of an object's orbital period is proportional to the cube of its semi-major axis:
