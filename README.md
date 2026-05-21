@@ -19,4 +19,5 @@ cd orbital-period-calculator
 python calculator.py
 ```
 
-## Sample Output
+## What I Learned
+Implemented Kepler's Third Law in Python to be able to calculate the orbital periods for the planets in our solar system (and Pluto). Part of a larger series of aerospace software projects to refamiliarize myself with aerospace concepts and some orbital mechanics
